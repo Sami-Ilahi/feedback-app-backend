@@ -1,0 +1,14 @@
+{
+  "name": "feedback-app",
+  "version": "1.0.0",
+  "description": "feedback application",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sami ilahi",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
